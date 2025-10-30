@@ -39,5 +39,6 @@ Este proyecto presenta un dashboard interactivo desarrollado con **Streamlit** p
 streamlit run mi_dashboard.py
 
 
-## 🌵 LINK 🌵
-https://bioma-desertico-cjhbiea6rsztfjzgbxe6ze.streamlit.app/
+## 🚀 LINK
+
+🔗 **[Haz clic aquí para ver el dashboard en Streamlit Cloud](https://bioma-desertico-cjhbiea6rsztfjzgbxe6ze.streamlit.app/)** 
