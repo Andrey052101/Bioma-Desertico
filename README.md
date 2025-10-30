@@ -37,7 +37,7 @@ Este proyecto presenta un dashboard interactivo desarrollado con **Streamlit** p
 
 ```bash
 streamlit run mi_dashboard.py
-
+-------------------------------------------------------------------------------------------------
 
 
 ## **🚀 LINK**
