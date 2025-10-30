@@ -6,8 +6,8 @@ import os
 # 🛠️ Configuración de la página
 st.set_page_config(page_title="🌵 Ecosistema Desértico", layout="wide")
 
-# 📂 Ruta base donde están las imágenes
-ruta_base = "C:/Users/Acer/streamlit_desertico"
+# 📂 Ruta base relativa (compatible con Streamlit Cloud)
+ruta_base = os.path.dirname(__file__)
 
 # 📸 Mostrar imágenes decorativas
 st.image(os.path.join(ruta_base, "minecraf.jpg"), caption="Bioma Desértico en Minecraft", use_column_width=True)
